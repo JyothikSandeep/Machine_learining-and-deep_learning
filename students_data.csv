@@ -1,0 +1,11 @@
+student_id,name,age,gender,course,marks,attendance_percent,passed
+101,Aarav,20,M,ML,85,90,True
+102,Diya,21,F,DL,92,95,True
+103,Rohan,19,M,ML,78,85,True
+104,Sneha,22,F,Data Science,88,92,True
+105,Kiran,23,M,DL,90,88,True
+106,Meera,20,F,ML,81,91,True
+107,Arjun,21,M,Data Science,95,97,True
+108,Pooja,22,F,ML,76,80,False
+109,Rahul,24,M,DL,89,89,True
+110,Ananya,19,F,Data Science,84,93,True
